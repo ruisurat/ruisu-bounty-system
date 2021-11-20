@@ -4,8 +4,10 @@ ruisu's Bounty System is a fully customisable addon that adds a mechanic similar
 ## HUD Indicators
 ![fp indicator](https://i.imgur.com/07rYDNU.png)
 First person indicator. No bounty
+
 ![fp indicator bounty](https://i.imgur.com/z90JVkz.png)
 First person indicator. Has bounty.
+
 ![tp indicator bounty](https://i.imgur.com/sibUtOr.png)
 Third person indicator. Has bounty
 
