@@ -13,6 +13,7 @@ Third person indicator. Has bounty
 
 ## Milestones!
 ![milestones](https://i.imgur.com/Zk7FY97.png)
+
 In the config, you can define an infinite amount of milestones - which when reached will grant rewards such as money and XP. Milestones can be disabled, and when done so players can define a simpler value for whenever a player kills someone when they're on a streak.
 
 ## Functions
