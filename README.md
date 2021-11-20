@@ -42,3 +42,5 @@ I've designed the addon with updates in mind, so if you wish to add features jus
 - Language Support
 - Reworked HUD
 - Advanced Milestones
+
+Steam Page: https://steamcommunity.com/sharedfiles/filedetails/?id=2659758397
